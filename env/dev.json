@@ -1,0 +1,7 @@
+{
+  "FLAVOR": "dev",
+  "BASE_URL": "https://api.dev.example.com/api/",
+  "SERVER_URL": "https://api.dev.example.com/",
+  "API_KEY": "app$dev",
+  "ALLOWED_CERT_FINGERPRINTS": ""
+}

@@ -1,0 +1,7 @@
+{
+  "FLAVOR": "staging",
+  "BASE_URL": "https://api.staging.example.com/api/",
+  "SERVER_URL": "https://api.staging.example.com/",
+  "API_KEY": "REPLACE_WITH_STAGING_KEY",
+  "ALLOWED_CERT_FINGERPRINTS": ""
+}

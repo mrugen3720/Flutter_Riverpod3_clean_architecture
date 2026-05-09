@@ -1,0 +1,7 @@
+{
+  "FLAVOR": "prod",
+  "BASE_URL": "https://api.example.com/api/",
+  "SERVER_URL": "https://api.example.com/",
+  "API_KEY": "REPLACE_WITH_PROD_KEY",
+  "ALLOWED_CERT_FINGERPRINTS": "AABBCC...,DDEEFF..."
+}
