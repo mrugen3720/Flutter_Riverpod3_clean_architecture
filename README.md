@@ -651,8 +651,6 @@ docs(readme): update architecture diagram
 
 | Document | Purpose |
 |----------|---------|
-| [`ARCHITECTURE.md`](ARCHITECTURE.md) | High-level architecture overview, layer rules, DI graph, security model |
-| [`docs/ARCHITECTURE_REMEDIATION.md`](docs/ARCHITECTURE_REMEDIATION.md) | Exhaustive remediation history, change protocol, self-review checklist |
 | [`lib/features/auth/README.md`](lib/features/auth/README.md) | Reference feature template — clone this for new features |
 | [`env/README.md`](env/README.md) | Full flavor/environment setup guide including iOS scheme instructions |
 
