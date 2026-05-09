@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🏗️ Flutter Riverpod Clean Architecture
 
@@ -663,5 +663,3 @@ docs(readme): update architecture diagram
 **Built with ❤️ using Flutter & Clean Architecture**
 
 </div>
-]]>
-# Flutter_Riverpod3_clean_architecture
